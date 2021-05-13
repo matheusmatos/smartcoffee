@@ -1,0 +1,2 @@
+#!/bin/bash
+git clean --force && git reset --hard && rm -rf ./android ./ios
